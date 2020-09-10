@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+mat-label {
+    font-size: 16px;
+    margin-right: 8px;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
